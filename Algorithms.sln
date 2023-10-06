@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{B5AB5E31-8CD2-4B40-B3D8-A1B1CF822E4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "My_MediumAndHard_Algorithms", "My_MediumAndHard_Algorithms\My_MediumAndHard_Algorithms.csproj", "{B5AB5E31-8CD2-4B40-B3D8-A1B1CF822E4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode_Array_Easy", "LeetCode_Array_Easy\LeetCode_Array_Easy.csproj", "{F39EC5D4-AB76-45F5-A695-D1CB21EC562C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode_Top150_Array_Easy_Medium", "LeetCode_Array_Easy_Medium\LeetCode_Top150_Array_Easy_Medium.csproj", "{F39EC5D4-AB76-45F5-A695-D1CB21EC562C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode_Top150_All_Hard_Algorithms", "LeetCode_Top150_All_Hard_Algorithms\LeetCode_Top150_All_Hard_Algorithms.csproj", "{4EEA0C1B-8DE9-411E-A2F9-EDFA77A87CED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F39EC5D4-AB76-45F5-A695-D1CB21EC562C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F39EC5D4-AB76-45F5-A695-D1CB21EC562C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F39EC5D4-AB76-45F5-A695-D1CB21EC562C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EEA0C1B-8DE9-411E-A2F9-EDFA77A87CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEA0C1B-8DE9-411E-A2F9-EDFA77A87CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEA0C1B-8DE9-411E-A2F9-EDFA77A87CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEA0C1B-8DE9-411E-A2F9-EDFA77A87CED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
